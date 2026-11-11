@@ -1,0 +1,6 @@
+{
+  "name": "kindra voiceover",
+  "description": "A lightweight testing utility to validate ElevenLabs API keys, browse dynamic voices, and test text-to-speech voiceover generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
